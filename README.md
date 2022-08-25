@@ -1,5 +1,6 @@
+<!DOCTYPE html>
+<link rel="stylesheet" type="text/css" href="https://yaseenc56.github.io/style.css">
 <html>
-  <link href='./style.css' rel='stylesheet'>
   <body>
     <header>Yaseen Chudasama</header>
     <h1>Yaseen Chudasama</h1>
@@ -11,3 +12,5 @@
           I am looking to expand the amount of languages that I have in my portfolio</ul></p>
    
   </body>
+</html>
+
