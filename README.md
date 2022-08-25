@@ -1,4 +1,5 @@
 <html>
+  <link href='./style.css' rel='stylesheet'>
   <body>
     <header>Yaseen Chudasama</header>
     <h1>Yaseen Chudasama</h1>
