@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<link rel="stylesheet" type="text/css" href="https://yaseenc56.github.io/style.css">
+<link rel="stylesheet" type="css" href="css/tab.css" />
 <html>
   <body>
     <header>Yaseen Chudasama</header>
@@ -13,4 +13,3 @@
    
   </body>
 </html>
-
